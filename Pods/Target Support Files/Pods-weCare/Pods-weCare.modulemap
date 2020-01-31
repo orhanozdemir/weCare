@@ -1,0 +1,6 @@
+framework module Pods_weCare {
+  umbrella header "Pods-weCare-umbrella.h"
+
+  export *
+  module * { export * }
+}
